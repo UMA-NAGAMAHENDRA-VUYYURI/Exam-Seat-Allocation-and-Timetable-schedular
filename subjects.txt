@@ -1,0 +1,5 @@
+CSE: Data Structures, Programming Fundamentals, Discrete Mathematics,java
+ECE: Circuit Theory, Signal Processing, Basic Electronics,dsa
+ME: Thermodynamics, Engineering Graphics, Manufacturing Processes
+CE: Surveying, Environmental Engineering, Mechanics of Materials
+EE: Electric Circuits, Electromagnetics, Power Systems
